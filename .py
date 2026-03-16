@@ -1,1 +1,1 @@
-Por favor melhore
+print("Por favor melhore")
